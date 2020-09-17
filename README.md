@@ -1,4 +1,4 @@
-# Site  de exemplo da disciplina ARB39
+# Site  de exemplo da disciplina ARQB39
 
 Aluno: Sabrina
 
