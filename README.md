@@ -9,4 +9,4 @@ Aluno: Sabrina
 
 ![logo python](figuras/110px-Python-logo-notext.svg.png)
 
-### Testando atualização
+### Testando atualização da imagem
