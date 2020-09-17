@@ -7,6 +7,4 @@ Aluno: Sabrina
 
 ### Inserindo uma imagem
 
-![logo python](figuras/110px-Python-logo-notext.svg.png)
-
-### Testando atualização da imagem
+![copan](https://images.adsttc.com/media/images/598a/5cc3/b22e/3893/9200/0737/slideshow/COPAN_IMAGEM-000_ARCHDAILY.jpg?1502239934)
